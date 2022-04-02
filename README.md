@@ -4,7 +4,7 @@ Quick benchmark for reading packed ints based on Lucene bkd DocIdsWriter.
 
 For running benchmarks:
 
-git clone git@github.com:iverase/benchmark_forutil.git
+git clone https://github.com/iverase/benchmark_forutil.git
 
 cd benchmark_forutil    
 
